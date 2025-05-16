@@ -13,10 +13,14 @@ The repository contains a set of cutomized HTML templates to be used with the Za
 ---
 It can be customized many tags depend on your HTML skills.
 
+I used this resource for coding: [w3school](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default_default)
+
+[HTML Templates](./Template/html/)
+
 ### Sample. HTML Templates Problem & Problem Recovery
 ---
-<img width="423" alt="изображение" src="https://github.com/user-attachments/assets/fad56ce0-e85f-4237-b624-e76caf8539fc" />
-
+<img width="427" alt="Screenshot 2025-05-16 at 12 49 07" src="https://github.com/user-attachments/assets/9878eb45-6f06-4d0b-bb7a-702193fca2a4" />
+<img width="435" alt="Screenshot 2025-05-16 at 12 47 34" src="https://github.com/user-attachments/assets/945dcd5a-7f97-4a6c-ba88-c6b3dc4d728c" />
 
 ## Installation
 
