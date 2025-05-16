@@ -1,18 +1,21 @@
 # zabbix-email-alert-templates
 
-### Customizable Zabbix HTML Email Alert Problem and Recovery Templates
+### Customized Zabbix HTML Email Alert Problem and Problem Recovery Templates
 
 The repository contains a set of cutomized HTML templates to be used with the Zabbix Email HTML MediaType. 
 
 ## Requirements
 
-Zabbix 6.5 and up
+- Zabbix 6.5 and up
+- Zabbix Media Type cofigured with the HTML or Markdown message format
 
 ## Customization
 ---
+It can be customized many tags depend on your HTML skills.
 
-### Sample - HTML Template
+### Sample. HTML Templates Problem & Problem Recovery
 ---
+
 
 ## Installation
 
@@ -33,4 +36,4 @@ For more details on Zabbix Media Type configuration, please refer to: [MEDIA TYP
 - Add a Graph to the problematic item
 
 ---
-Inspired by:
+Inspired by: https://github.com/diasdmhub/Zabbix_Html_E-mail_Template
